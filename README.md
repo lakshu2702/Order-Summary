@@ -8,11 +8,11 @@ The Order Summary project is a responsive web application designed to display a 
 
 ### Laptop View
 
-![Laptop View](screenshots/laptop_view.png)
+![Laptop View](screenshots/laptop.png)
 
 ### Mobile View
 
-![Mobile View](screenshots/mobile_view.png)
+![Mobile View](screenshots/mobile.png)
 
 ## Features
 
